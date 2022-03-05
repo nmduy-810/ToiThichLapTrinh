@@ -1,0 +1,12 @@
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/bin/Debug/net6.0/ToiThichLapTrinh.Utilities.deps.json
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/bin/Debug/net6.0/ToiThichLapTrinh.Utilities.dll
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/bin/Debug/net6.0/ToiThichLapTrinh.Utilities.pdb
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.csproj.AssemblyReference.cache
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.AssemblyInfoInputs.cache
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.AssemblyInfo.cs
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.csproj.CoreCompileInputs.cache
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.dll
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/refint/ToiThichLapTrinh.Utilities.dll
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ToiThichLapTrinh.Utilities.pdb
+/Users/duynguyen/Development/NetCore/ToiThichLapTrinh/src/ToiThichLapTrinh.Utilities/obj/Debug/net6.0/ref/ToiThichLapTrinh.Utilities.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ToiThichLapTrinh.UI/1.0.0": {
+        "runtime": {
+          "ToiThichLapTrinh.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToiThichLapTrinh.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
